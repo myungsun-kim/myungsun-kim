@@ -17,15 +17,18 @@ Here are some ideas to get you started:
 
 SSAFY(Samsung Software Academy for Youth) 5th (2021.01~ )
 
-### Interest
-Web Development(BackEnd: Java, Spring, Spring Boot etc), Algorithm
 
-### Tech Stack
-<img src="https://img.shields.io/badge/Java-#007396?style=flat-square&logo=#007396&logoColor=white"/></a>&nbsp 
-<!--
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=#F7DF1E&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=#6DB33F&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=#E34F26&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=#4479A1&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=#F80000&logoColor=white"/></a>&nbsp 
-    -->   
+## Tech Stack
+
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=SpringBoot&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
+![MySql](https://img.shields.io/badge/MySql-4479A1.svg?&style=for-the-badge&logo=MySql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
+
+## Interest
+Web Development- BackEnd
+Algorithm
+
+ 
