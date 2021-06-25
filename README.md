@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 SSAFY(Samsung Software Academy for Youth) 5th (2021.01~ )
 
-
+<br><br>
 ## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -26,9 +26,9 @@ SSAFY(Samsung Software Academy for Youth) 5th (2021.01~ )
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 ![MySql](https://img.shields.io/badge/MySql-4479A1.svg?&style=for-the-badge&logo=MySql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
-
+<br><br><br>
 ## Interest
 Web Development- BackEnd <br>
 Algorithm
-
+<br><br><br>
  
