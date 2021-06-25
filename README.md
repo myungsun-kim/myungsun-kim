@@ -21,7 +21,7 @@ SSAFY(Samsung Software Academy for Youth) 5th (2021.01~ )
 Web Development(BackEnd: Java, Spring, Spring Boot etc), Algorithm
 
 ### Tech Stack
-<img src="https://img.shields.io/badge/#FFBB00?style=flat-square&logo=#007396&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/#007396?style=flat-square&logo=&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=#F7DF1E&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=#6DB33F&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=#E34F26&logoColor=white"/></a>&nbsp 
